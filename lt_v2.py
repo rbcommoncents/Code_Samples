@@ -10,7 +10,7 @@ from guizero import *
 practice_phrases = ["Where can I buy some food?", "He was bold.", "She was brave.", "Intelligence", "They had children that sang and played.",
                      "Why did the bicycle fall over?", "Because it was two-tired from all the compliments!", "What do you call a fake noodle?", "an impasta!", "Hello", 
                      "If you have not heard it already today.", "I Love you", "I am always thinking about you.", "and", 
-                     "You look as beautiful as the day you came into my world.", "Today is..", "Is there anything I can do to help?", "Have a wonderful day, lined with blessings.",
+                     "You look even more beautiful then the day you came into my world.", "Today is..", "Is there anything I can do to help?", "Have a wonderful day, lined with blessings.",
                      "Why don't scientist trust atoms?", "Because they make up everything.", "How do you organize a space party?", "You planet!",
                      ]
 
