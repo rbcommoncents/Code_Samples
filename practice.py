@@ -12,7 +12,7 @@ class titlepage:
         return f"{self.title}\n{self.date}\n{self.preparer}\n{self.reference_num}"
  
 """ 
-t1 = titlepage("Malware", "Ryszard", "0000001")
+t1 = titlepage("Malware", "Rizz", "0000001")
 
 a = []
 a.append(t1.title)
